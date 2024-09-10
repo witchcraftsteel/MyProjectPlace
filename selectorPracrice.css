@@ -1,0 +1,54 @@
+li {
+    padding: 10px;
+}
+
+h2 {
+    color: tomato;
+    padding: 10px;
+}
+
+
+.hot-item:hover {
+    background-color: aquamarine;
+}
+.reality-item:hover {
+    background-color: blanchedalmond;
+}
+a:hover {
+    color: tomato;
+}
+
+.hot-header {
+    background-color: aquamarine;
+}
+
+.reality-header {
+    background-color: blanchedalmond;
+}
+
+.hot-header-footer {
+    color: tomato;
+}
+
+.reality-footer {
+    color: tomato;
+}
+
+.photoblock  {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+
+
+.photoheader {
+    background-color: darksalmon;
+    color: bisque;
+}
+
+.photoblock .pictureblock {
+    max-width: 80%;
+    max-width: 200px;
+}
